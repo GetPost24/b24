@@ -42,7 +42,7 @@
 </div>
 
 <footer>
-    <div class="copyright">&copy; Б24, <?php echo date('Y'); ?></div>
+    <div class="copyright">&copy; Б24, 2023</div>
 </footer>
 
 </body>
