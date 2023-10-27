@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Разработка Битрикс24</title>
+<meta name="robots" content="all">
+<meta name="author" content="Konstantin Zhirnov">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<link rel="stylesheet" type="text/css" href="./kcss.css?0.01">
+<link rel="icon" href="./favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="./favicon.png" type="image/x-icon">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<script>
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'');
+</script>
+
+<header>
+    <div class="logo"><a href="/">Разработка <span class="logo-g">Б24</span></a></div>
+        <div class="nav">
+            <ul>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+            </ul>
+        </div>
+            <!--<div class="btn__order"><a href="#">Войти</a></div>-->
+</header>
+
+<div class="section-info">
+    <div class="section-info__title"></div>
+        <div class="section-info__desc"></div>
+            <!--<div class="section-info__btn"><a href="#"></a></div>-->
+</div>
+
+<footer>
+    <div class="copyright">&copy; Б24, <?php echo date('Y'); ?></div>
+</footer>
+
+</body>
+</html>
